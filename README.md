@@ -1,5 +1,8 @@
 Write a query about a location anywhere in the world and see where it actually is!
 
+This app uses a Flask frontend and utilizes Groq AI to generate the longitude and latitude of the location specified in the query.
+This location is then shown on a world map.
+
 * To use this app, run the following:
 
 ```
