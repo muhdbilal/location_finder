@@ -3,7 +3,7 @@ Write a query about a location anywhere in the world and see where it actually i
 * To use this app, run the following:
 
 ```
-chainlit run capp.py
+python app.py
 ```
 
 It requires making a .env file in the main folder directory with a Groq api key defined as:
